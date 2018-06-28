@@ -1,21 +1,11 @@
-[{
-  "ID": "14-0759997",
-  "Name": "Leontine",
-  "Date": "5/4/2018",
-  "Subject": "Twitterworks"
-}, {
-  "ID": "82-6363223",
-  "Name": "Ardelia",
-  "Date": "10/24/2017",
-  "Subject": "Voomm"
-}, {
-  "ID": "81-2028593",
-  "Name": "Wilone",
-  "Date": "1/27/2018",
-  "Subject": "Nlounge"
-}, {
-  "ID": "46-0390898",
-  "Name": "Vladamir",
-  "Date": "12/16/2017",
-  "Subject": "Kaymbo"
-}]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
